@@ -1,0 +1,14 @@
+package academy.learnprogramming;
+
+public class Main {
+	public static void main(String[] args) {
+		boolean thisOrThat = true;
+		boolean thatOrThis = thisOrThat ? false : true;
+		if (thatOrThis) {
+			System.out.println("THAT!");
+		}
+		else {
+			System.out.println("THIS!");
+		}
+	}
+}
