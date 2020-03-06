@@ -2,6 +2,13 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="org.eclipse.swt.widgets.Shell"/>
     <fullyQualifiedTypeName name="org.eclipse.swt.widgets.Display"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.tristandaly.SmallConverter"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.tristandaly.SecondsAndMinutes"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="com.tristandaly.AreaCalculator"/>
+    <fullyQualifiedTypeName name="com.tristandaly.MinutesToYearsDaysCalculator"/>
+    <fullyQualifiedTypeName name="com.tristandaly.IntEqualityPrinter"/>
+    <fullyQualifiedTypeName name="com.tristandaly.PlayingCat"/>
 </qualifiedTypeNameHistroy>
